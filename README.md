@@ -1,4 +1,5 @@
 # XPLR-IOT-1-hardware
+Comming soon...
 
 ## Disclaimer
 Copyright (C) u-blox 
