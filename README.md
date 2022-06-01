@@ -1,5 +1,12 @@
 # XPLR-IOT-1-hardware
-Comming soon...
+This repository contains the XPLR-IOT-1 PCB layout design contained within a
+single ZIP file for each revision. This file contains
+* Altium source for schematics and PCB
+* Schematic in PDF,
+* Layout output in Gerber format
+* Other assembly outputs (drill, pick and place, etc)
+
+    > Rev B: engineering sample release 2022-06-01
 
 ## Disclaimer
 Copyright (C) u-blox 
