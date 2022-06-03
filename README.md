@@ -10,7 +10,7 @@ single ZIP file for each revision. This file contains
     > Rev B: engineering sample release 2022-06-01
 
 ## Disclaimer
-Copyright (C) u-blox 
+Copyright &copy; u-blox 
 
 u-blox reserves all rights in this deliverable (documentation, software, etc.,
 hereafter “Deliverable”). 
