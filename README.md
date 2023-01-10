@@ -8,6 +8,8 @@ single ZIP file for each revision. This file contains
 * Other assembly outputs (drill, pick and place, etc)
 
     > Rev B: engineering sample release 2022-06-01
+    > Rev C: not produced. Use Rev D files.
+    > Rev D: initial production release 2022-12-21 
 
 ## Disclaimer
 Copyright &copy; u-blox 
