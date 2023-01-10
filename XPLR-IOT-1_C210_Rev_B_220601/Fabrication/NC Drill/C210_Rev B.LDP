@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\emoo\Documents\UBX\Projects\C210\Rev B-Release\PCB\C210_220601.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=c210_rev b-roundholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=c210_rev b-slotholes.txt|DrillLayers=gtl,g1,g2,g3,g4,gbl

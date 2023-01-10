@@ -1,0 +1,33 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: UBXH60-0000778_Rev D.GBR   12/21/2022  12:40:10 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                L1                                      
+.G1                 L2                                      
+.G2                 L3                                      
+.G3                 L4                                      
+.G4                 L5                                      
+.GBL                L6                                      
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM3                Fabrication Notes                       
+.GM4                Rigid Outline                           
+.GM11               Ref Des Top                             
+.GM12               Ref Des Bottom                          
+.GM13               Assembly Top                            
+.GM14               Assembly Bottom                         
+.GM15               Courtyard Top                           
+.GM16               Coutryard Bottom                        
+.GKO                Keep-Out Layer                          
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+------------------------------------------------------------------------------------------

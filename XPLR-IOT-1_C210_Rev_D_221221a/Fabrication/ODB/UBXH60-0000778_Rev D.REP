@@ -1,0 +1,226 @@
+*************************************************************
+FileName = C210.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\profile
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\dielectric_3\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\dielectric_3\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\drill_non-plated_bottom-top\tools
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\top_courtyard\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\top_courtyard\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\top_component_center\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\top_component_center\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_courtyard\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_courtyard\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\mechanical_1\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\mechanical_1\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\dielectric_4\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\dielectric_4\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\mechanical_7\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\mechanical_7\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\rigid_outline\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\rigid_outline\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\dielectric_2\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\dielectric_2\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\top_3d_body\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\top_3d_body\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\dielectric_1\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\dielectric_1\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_assembly\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_assembly\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_component_center\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_component_center\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\top_assembly\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\top_assembly\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_3d_body\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_3d_body\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\drill_plated_bottom-top\tools
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\dielectric_5\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\dielectric_5\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_top-bottom\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\drill_guide_top-bottom\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\coutryard_bottom\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\coutryard_bottom\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\ground_plane_1\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\ground_plane_1\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\courtyard_top\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\courtyard_top\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\ref_des_bottom\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\ref_des_bottom\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\assembly_top\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\assembly_top\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\assembly_bottom\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\assembly_bottom\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\ground_plane_2\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\ground_plane_2\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\l2\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\l2\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\l5\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\l5\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\fabrication_notes\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\fabrication_notes\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\border___title\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\border___title\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\l4\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\l4\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\l3\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\l3\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\l6\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\l6\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\ref_des_top\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\ref_des_top\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\l1\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\l1\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_top-bottom\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\drill_drawing_top-bottom\attrlist
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\rout\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\layers\rout\tools
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\matrix\matrix
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\symbols\uds_rect126.63424x2860.94424_95\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\symbols\uds_rect224.06102x94.68104_135\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\symbols\uds_rect224.06102x94.68104_45\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\symbols\uds_rect6052.19516x97.1677_136\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\symbols\uds_rect5912.93966x97.1677_44\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\symbols\uds_rect126.63424x2817.29688_85\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\symbols\uds_rect126.63424x2860.94424_95\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\symbols\uds_rect224.06102x94.68104_135\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\symbols\uds_rect224.06102x94.68104_45\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\symbols\uds_rect6052.19516x97.1677_136\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\symbols\uds_rect5912.93966x97.1677_44\features
+
+Generated File : C:\Users\Public\Documents\Altium\C210 Rev_D\.\Fabrication\ODB\odb\symbols\uds_rect126.63424x2817.29688_85\features
+

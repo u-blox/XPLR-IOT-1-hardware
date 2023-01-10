@@ -1,0 +1,729 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 49 61.06320782 52.5305655 180 N R203 180-000120R ;0=1,1=0.5500
+PRP Height '0.55mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Hong Kong Resistors Manufactory'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_Part_Number_1 'RCT030RLF'
+PRP Manufacturer_Part_Number_2 'RC1608J000CS'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 0.0 OHM JUMPER 1/10W 0603'
+PRP Part_Number '180-00012'
+PRP Pins '2'
+PRP Power '1/10W'
+PRP Revision '0D'
+PRP Size '0603'
+PRP Supplier_1 'None'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'None'
+PRP Supplier_Part_Number_2 '1276-3510-1-ND'
+PRP Tolerance 'None'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '0R'
+PRP Voltage 'None'
+TOP 0 60.41320658 52.5305655 90 N 2 0 1
+TOP 1 61.71320906 52.5305655 90 N 3 2 2
+#
+# CMP 1
+CMP 49 64.79999994 52.56761648 0 N R202 180-000120R ;0=1,1=0.5500
+PRP Height '0.55mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Hong Kong Resistors Manufactory'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_Part_Number_1 'RCT030RLF'
+PRP Manufacturer_Part_Number_2 'RC1608J000CS'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 0.0 OHM JUMPER 1/10W 0603'
+PRP Part_Number '180-00012'
+PRP Pins '2'
+PRP Power '1/10W'
+PRP Revision '0D'
+PRP Size '0603'
+PRP Supplier_1 'None'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'None'
+PRP Supplier_Part_Number_2 '1276-3510-1-ND'
+PRP Tolerance 'None'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '0R'
+PRP Voltage 'None'
+TOP 0 65.45000118 52.56761648 270 N 2 1 1
+TOP 1 64.1499987 52.56761648 270 N 5 1 2
+#
+# CMP 2
+CMP 49 64.14117474 51.92174528 270 N R201 180-000120R ;0=1,1=0.5500
+PRP Height '0.55mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Hong Kong Resistors Manufactory'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_Part_Number_1 'RCT030RLF'
+PRP Manufacturer_Part_Number_2 'RC1608J000CS'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 0.0 OHM JUMPER 1/10W 0603'
+PRP Part_Number '180-00012'
+PRP Pins '2'
+PRP Power '1/10W'
+PRP Revision '0D'
+PRP Size '0603'
+PRP Supplier_1 'None'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'None'
+PRP Supplier_Part_Number_2 '1276-3510-1-ND'
+PRP Tolerance 'None'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '0R'
+PRP Voltage 'None'
+TOP 0 64.14117474 51.27174404 0 N 95 1 1
+TOP 1 64.14117474 52.57174652 0 N 5 2 2
+#
+# CMP 3
+CMP 49 61.71320906 51.88056426 270 N R200 180-000120R ;0=1,1=0.5500
+PRP Height '0.55mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Hong Kong Resistors Manufactory'
+PRP Manufacturer_2 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_Part_Number_1 'RCT030RLF'
+PRP Manufacturer_Part_Number_2 'RC1608J000CS'
+PRP Max_Operating_Temp '155'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'RES SMD 0.0 OHM JUMPER 1/10W 0603'
+PRP Part_Number '180-00012'
+PRP Pins '2'
+PRP Power '1/10W'
+PRP Revision '0D'
+PRP Size '0603'
+PRP Supplier_1 'None'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 'None'
+PRP Supplier_Part_Number_2 '1276-3510-1-ND'
+PRP Tolerance 'None'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '0R'
+PRP Voltage 'None'
+TOP 0 61.71320906 51.23056302 0 N 95 0 1
+TOP 1 61.71320906 52.5305655 0 N 3 1 2
+#
+# CMP 4
+CMP 47 51.82499922 73.05000122 270 N RT2 Res_Thermal ;0=1,1=0.2600
+PRP Body_Size '0.6mm x 0.3mm'
+PRP Height '0.26mm'
+PRP Item_Phase 'Unreleased'
+PRP Manufacturer_1 'Murata Electronics North America'
+PRP Manufacturer_Part_Number_1 'NCP03XH103J05RL'
+PRP Max_Operating_Temp '125'
+PRP Min_Operating_Temp '-40'
+PRP Part_Name 'Thermistor 10k Ohm 5% 3380K 0201'
+PRP Part_Number '182-00002'
+PRP Pins '2'
+PRP Power '1/20W'
+PRP Revision 'None'
+PRP Size '0201'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-4644-1-ND'
+PRP Tolerance '+/- 5%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '10k'
+PRP Voltage 'None'
+TOP 0 51.82499922 72.7750005 0 N 9 0 1
+TOP 1 51.82499922 73.32500194 0 N 298 105 2
+#
+# CMP 5
+CMP 41 35.00000112 118.00000022 0 N A1 PCS.66.A ;0=1,1=1.6000
+PRP Body_Size '33mm x 25mm'
+PRP Height '1.6mm'
+PRP Item_Phase 'Unreleased'
+PRP Manufacturer_1 'Taoglas'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_Part_Number_1 'PCS.66.A'
+PRP Manufacturer_Part_Number_2 'None'
+PRP Max_Operating_Temp '85'
+PRP MFG_Package 'Custom'
+PRP Min_Operating_Temp '-40'
+PRP Part_Name ''
+PRP Part_Number 'PCS.66.A'
+PRP Pins '5'
+PRP Revision 'None'
+PRP RF_Freq '698-2700 MHz'
+PRP Size 'Other'
+PRP SMT_Pitch 'None'
+PRP Supplier_1 ''
+PRP Supplier_2 'None'
+PRP Supplier_Part_Number_1 ''
+PRP Supplier_Part_Number_2 'None'
+PRP Tolerance ''
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage 'None'
+TOP 0 35.00000112 104.50000182 180 N 292 0 1
+TOP 1 49.800002 105.85000166 180 N 0 41 2
+TOP 2 20.20000024 105.85000166 0 N 0 42 3
+TOP 3 49.30000046 126.4500011 0 N 0 43 4
+TOP 4 35.00000112 126.4500011 180 N 0 45 5
+TOP 5 20.70000178 126.4500011 180 N 0 44 6
+#
+# CMP 6
+CMP 37 4.02500084 101.6999998 90 N ESIM MFF2_SIM ;0=1,1=1.0000
+PRP Body_Size '5mm x 6mm'
+PRP Current 'None'
+PRP Height '1mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Thingstream'
+PRP Manufacturer_2 ''
+PRP Manufacturer_Part_Number_1 'MFF2 ESIM'
+PRP Manufacturer_Part_Number_2 ''
+PRP Max_Operating_Temp '85'
+PRP MFG_Package 'VFDFPN8'
+PRP Min_Operating_Temp '-40'
+PRP Part_Name 'ESIM'
+PRP Part_Number 'MFF2 SIM'
+PRP Pins '12'
+PRP Revision '0A'
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage '1.8V'
+TOP 0 2.12000084 104.3750008 90 N 298 104 1
+TOP 1 3.39000338 104.37499826 90 N 0 37 2
+TOP 2 4.66000084 104.3750008 90 N 103 0 3
+TOP 3 5.93000084 104.3750008 90 N 0 36 4
+TOP 4 5.93000084 99.0249988 270 N 0 35 5
+TOP 5 4.66000084 99.0249988 270 N 104 0 6
+TOP 6 3.39000338 99.02499626 270 N 102 0 7
+TOP 7 2.12000084 99.0249988 270 N 101 0 8
+TOP 8 4.02500084 101.6999998 90 N 298 103 EPAD
+#
+# CMP 7
+CMP 17 10.49999932 1.49999954 270 N FD6 Fiducial_1mmDNP ;0=1,1=1.5500
+PRP Added_By 'EMOO'
+PRP Added_Date '12/12/2020'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Fiducial_1mm'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 10.49999932 1.49999954 270 N 0 40 1
+#
+# CMP 8
+CMP 17 66.00000008 118.49999922 270 N FD4 Fiducial_1mmDNP ;0=1,1=1.5500
+PRP Added_By 'EMOO'
+PRP Added_Date '12/12/2020'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Fiducial_1mm'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 66.00000008 118.49999922 270 N 0 39 1
+#
+# CMP 9
+CMP 17 57.4999993 1.49999954 270 N FD5 Fiducial_1mmDNP ;0=1,1=1.5500
+PRP Added_By 'EMOO'
+PRP Added_Date '12/12/2020'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer ''
+PRP Manufacturer_P/N ''
+PRP Part_Number 'Fiducial_1mm'
+PRP Size ''
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 57.4999993 1.49999954 270 N 0 38 1
+#
+# CMP 10
+CMP 47 51.27500032 73.05000122 270 N RT1 Res_Thermal ;0=1,1=0.2600
+PRP Body_Size '0.6mm x 0.3mm'
+PRP Height '0.26mm'
+PRP Item_Phase 'Unreleased'
+PRP Manufacturer_1 'Murata Electronics North America'
+PRP Manufacturer_Part_Number_1 'NCP03XH103J05RL'
+PRP Max_Operating_Temp '125'
+PRP Min_Operating_Temp '-40'
+PRP Part_Name 'Thermistor 10k Ohm 5% 3380K 0201'
+PRP Part_Number '182-00002'
+PRP Pins '2'
+PRP Power '1/20W'
+PRP Revision 'None'
+PRP Size '0201'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-4644-1-ND'
+PRP Tolerance '+/- 5%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '10k'
+PRP Voltage 'None'
+TOP 0 51.27500032 72.7750005 0 N 110 0 1
+TOP 1 51.27500032 73.32500194 0 N 298 93 2
+#
+# CMP 11
+CMP 32 12.9999994 58.40000004 270 N U31 LTR-303ALS-01 ;0=1,1=0.7000
+PRP Body_Size '1.4mm x 1.1mm'
+PRP Current 'None'
+PRP Height '0.45mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Lite-On'
+PRP Manufacturer_2 ''
+PRP Manufacturer_Part_Number_1 'LTR-303ALS-01'
+PRP Manufacturer_Part_Number_2 ''
+PRP Max_Operating_Temp '85'
+PRP MFG_Package 'QCS5P'
+PRP Min_Operating_Temp '-40'
+PRP Part_Name 'B39162B4353P810'
+PRP Part_Number 'LTR-303ALS-01'
+PRP Pins '5'
+PRP Revision '0A'
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage 'N/A'
+TOP 0 12.09999866 57.7499988 270 N 169 6 1
+TOP 1 12.09999866 58.40000004 270 N 0 34 2
+TOP 2 12.09999866 59.05000128 270 N 298 102 3
+TOP 3 13.90000014 59.05000128 270 N 213 0 4
+TOP 4 13.90000014 58.40000004 270 N 94 0 5
+TOP 5 13.90000014 57.7499988 270 N 214 0 6
+#
+# CMP 12
+CMP 27 54.99999922 58.49999984 90 N RGB2 115-00026 ;0=1,1=0.4000
+PRP Body_Size '1.6mm x 1.6mm'
+PRP Color ''
+PRP Current '20mA'
+PRP Height '0.35mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Lite-On Inc'
+PRP Manufacturer_2 'QT Brightek (QTB)'
+PRP Manufacturer_Part_Number_1 'LTST-C19HE1WT'
+PRP Manufacturer_Part_Number_2 'QBLP600-RGB'
+PRP Max_Operating_Temp '80'
+PRP MFG_Package '0606'
+PRP Min_Operating_Temp '-20'
+PRP Part_Name 'LED RGB SMT 0606'
+PRP Part_Number '115-00026'
+PRP Pins '4'
+PRP Revision '0B'
+PRP Size 'Other'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '160-2162-1-ND'
+PRP Supplier_Part_Number_2 '1516-1184-1-ND'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage 'None'
+TOP 0 54.2749994 58.92500026 180 N 140 0 1
+TOP 1 54.2749994 58.07499942 180 N 139 0 2
+TOP 2 55.72499904 58.07499942 0 N 138 0 3
+TOP 3 55.72499904 58.92500026 0 N 169 5 4
+#
+# CMP 13
+CMP 9 12.9499995 55.1249977 90 N C136 120-000160.1uF ;0=1,1=0.6000
+PRP Arena_Link 'https://app.bom.com/a/GYHPV2L2L43KRMBK?v=spec.summary'
+PRP Component_Mounting_Type 'SMT'
+PRP DNP ''
+PRP Height '0.55mm'
+PRP Item_Phase 'Production'
+PRP Manufacturer 'Murata Electronics North America'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_P/N 'GRM155R61A104KA01J'
+PRP Manufacturer_P/N_2 'CC0402KRX5R6BB104'
+PRP Part_Name 'CAP CER 0.1UF 10V 10% X5R 0402'
+PRP Part_Number '120-00016'
+PRP Part_Type 'Ceramic Capacitor'
+PRP Pins '2'
+PRP Revision '0A'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-6297-1-ND'
+PRP Supplier_Part_Number_2 '311-1336-1-ND'
+PRP Temperature_Coefficient 'X5R'
+PRP Tolerance '+/- 10%'
+PRP Use_in_new_designs 'Yes'
+PRP Value '0.1uF'
+PRP Voltage '10V'
+TOP 0 12.9499995 55.5249969 180 N 169 2 1
+TOP 1 12.9499995 54.7249985 180 N 298 94 2
+#
+# CMP 14
+CMP 9 14.02499862 54.8249983 90 N C135 120-000204.7uF ;0=1,1=0.6000
+PRP Height '0.55mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Samsung Electro-Mechanics America, Inc'
+PRP Manufacturer_2 'Yageo'
+PRP Manufacturer_Part_Number_1 'CL05A475MP5NRNC'
+PRP Manufacturer_Part_Number_2 'CC0402KRX5R6BB475'
+PRP Max_Operating_Temp '85'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name 'CAP CER 4.7uF 10V 20% X5R 0402'
+PRP Part_Number '120-00020'
+PRP Pins '2'
+PRP Revision '0C'
+PRP Size '0402'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'Digi-Key'
+PRP Supplier_Part_Number_1 '1276-1482-1-ND'
+PRP Supplier_Part_Number_2 '311-3477-1-ND'
+PRP Temperature_Coefficient 'X5R'
+PRP Tolerance '+/- 20%'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Value '4.7uF'
+PRP Voltage '10V'
+TOP 0 14.02499862 55.2249975 180 N 169 3 1
+TOP 1 14.02499862 54.4249991 180 N 298 95 2
+#
+# CMP 15
+CMP 65 53.00000068 16.50000002 180 N BTN1 TL6120DF300QG ;0=1,1=10.0000
+PRP Diameter 'None'
+PRP Height '3.05mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'E-Switch'
+PRP Manufacturer_2 'E-Switch'
+PRP Manufacturer_P/N ''
+PRP Manufacturer_Part_Number_1 'TL6120DF300QG'
+PRP Manufacturer_Part_Number_2 'TL6120DF500QG'
+PRP Max_Operating_Temp 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Name 'CON HDR 0.1_ 3 Pin 1 Row SMT R/A'
+PRP Part_Number 'TL6120DF300QG'
+PRP Pins '3'
+PRP Revision '0A'
+PRP Supplier_1 'None'
+PRP Supplier_2 'None'
+PRP Supplier_Part_Number_1 'None'
+PRP Supplier_Part_Number_2 'None'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage 'None'
+TOP 0 48.54999942 18.5000011 180 N 147 1 1
+TOP 1 57.45000194 18.5000011 0 N 147 0 2
+TOP 2 48.54999942 14.49999894 180 N 298 110 3
+TOP 3 57.45000194 14.49999894 0 N 298 109 4
+#
+# CMP 16
+CMP 65 15.00000048 16.50000256 180 N BTN2 TL6120DF300QG ;0=1,1=10.0000
+PRP Diameter 'None'
+PRP Height '3.05mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'E-Switch'
+PRP Manufacturer_2 'E-Switch'
+PRP Manufacturer_P/N ''
+PRP Manufacturer_Part_Number_1 'TL6120DF300QG'
+PRP Manufacturer_Part_Number_2 'TL6120DF500QG'
+PRP Max_Operating_Temp 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Name 'CON HDR 0.1_ 3 Pin 1 Row SMT R/A'
+PRP Part_Number 'TL6120DF300QG'
+PRP Pins '3'
+PRP Revision '0A'
+PRP Supplier_1 'None'
+PRP Supplier_2 'None'
+PRP Supplier_Part_Number_1 'None'
+PRP Supplier_Part_Number_2 'None'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage 'None'
+TOP 0 10.54999922 18.50000364 180 N 148 0 1
+TOP 1 19.45000174 18.50000364 0 N 148 1 2
+TOP 2 10.54999922 14.50000148 180 N 298 96 3
+TOP 3 19.45000174 14.50000148 0 N 298 97 4
+#
+# CMP 17
+CMP 4 51.50000114 2.00000108 180 N BTN3 135-00006 ;0=1,1=1.3500
+PRP Body_Size '3.00mm x 2.50mm'
+PRP Current '50mA'
+PRP Height '1.35mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Omron Electronics Inc-EMC Div'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_Part_Number_1 'B3U-3000P'
+PRP Manufacturer_Part_Number_2 'None'
+PRP Max_Operating_Temp '70'
+PRP Min_Operating_Temp '-25'
+PRP Part_Name 'Button Tactile SPST-NO 50mA 3mm RA SMT'
+PRP Part_Number '135-00006'
+PRP Pins '2'
+PRP Revision '0A'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'None'
+PRP Supplier_Part_Number_1 'SW1022CT-ND'
+PRP Supplier_Part_Number_2 'None'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage '12VDC'
+TOP 0 49.800002 2.00000108 90 N 129 0 1
+TOP 1 53.20000028 2.00000108 90 N 169 4 2
+#
+# CMP 18
+CMP 28 46.50000098 1.49999954 180 N D29 115-00013 ;0=1,1=1.1000
+PRP Body_Size '3.2mm x 1.5mm'
+PRP Color ''
+PRP Current '20mA'
+PRP Height '1.0mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Dialight'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_Part_Number_1 '5988510207F'
+PRP Manufacturer_Part_Number_2 'None'
+PRP Max_Operating_Temp 'None'
+PRP MFG_Package '1208 Bi-color'
+PRP Min_Operating_Temp 'None'
+PRP Part_Name 'LED Red/Green RA SMT 1208'
+PRP Part_Number '115-00013'
+PRP Pins '4'
+PRP Revision '0A'
+PRP Size 'None'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_2 'None'
+PRP Supplier_Part_Number_1 '350-2072-1-ND'
+PRP Supplier_Part_Number_2 'None'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage 'None'
+TOP 0 46.90000018 1.89999874 0 N 145 0 1
+TOP 1 46.10000178 1.89999874 0 N 298 101 2
+TOP 2 48.00000052 1.49999954 0 N 144 0 3
+TOP 3 45.00000144 1.49999954 0 N 146 0 4
+#
+# CMP 19
+CMP 12 34.00000058 40.50000028 0 N A2 CGGP.25.4.E.02 ;0=2,1=4.0000
+PRP Body_Size '25mm x 25mm'
+PRP Height '4mm'
+PRP Item_Phase 'Unreleased'
+PRP Manufacturer_1 'Taoglas'
+PRP Manufacturer_2 'Molex'
+PRP Manufacturer_Part_Number_1 'CGGP.25.4.E.02'
+PRP Manufacturer_Part_Number_2 '2042860001'
+PRP Max_Operating_Temp '125'
+PRP MFG_Package 'Custom'
+PRP Min_Operating_Temp '-55'
+PRP Part_Name ''
+PRP Part_Number 'CGGP.25.4.E.02'
+PRP Pins '1'
+PRP Revision 'None'
+PRP Size 'Other'
+PRP SMT_Pitch 'N/A'
+PRP Supplier_1 'Digi-key'
+PRP Supplier_2 'None'
+PRP Supplier_Part_Number_1 '931-1472-ND'
+PRP Supplier_Part_Number_2 'None'
+PRP Tolerance ''
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage 'N/A'
+TOP 0 34.00000058 43.00000036 180 N 222 0 1
+#
+# CMP 20
+CMP 51 62.79999886 58.60000218 0 N J14 S2B-PH-SM4-TB ;0=1,1=5.5000
+PRP Diameter 'None'
+PRP Height '5.5mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 ''
+PRP Manufacturer_2 'None'
+PRP Manufacturer_P/N ''
+PRP Manufacturer_Part_Number_1 'S2B-PH-SM4-TB'
+PRP Manufacturer_Part_Number_2 'None'
+PRP Max_Operating_Temp 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Name 'Conn, SMT, 0.079_ Pitch, 2 Pin, R/A, Black'
+PRP Part_Number 'S2B-PH-SM4-TB'
+PRP Pins '2'
+PRP Revision '0A'
+PRP Supplier_1 'None'
+PRP Supplier_2 'None'
+PRP Supplier_Part_Number_1 'None'
+PRP Supplier_Part_Number_2 'None'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage 'None'
+TOP 0 61.79999832 55.10000156 0 N 3 0 1
+TOP 1 63.7999994 55.10000156 180 N 5 0 2
+TOP 2 59.44999794 60.85000276 0 N 298 106 MH1
+TOP 3 66.14999978 60.85000276 180 N 298 107 MH1
+#
+# CMP 21
+CMP 0 63.999999 78.50000048 270 N STD1 9774020951R ;0=2,1=2.0000
+PRP Diameter 'None'
+PRP Height '2mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Würth Elektronik'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_Part_Number_1 '9774020951R'
+PRP Manufacturer_Part_Number_2 'None'
+PRP Max_Operating_Temp 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Name 'SMT STD 2mm'
+PRP Part_Number '9774020951R'
+PRP Pins '1'
+PRP Revision '0A'
+PRP Supplier_1 'None'
+PRP Supplier_2 'None'
+PRP Supplier_Part_Number_1 'None'
+PRP Supplier_Part_Number_2 'None'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage 'None'
+TOP 0 63.999999 78.50000048 270 N 298 114 1
+#
+# CMP 22
+CMP 0 63.999999 19.50000164 270 N STD3 9774020951R ;0=2,1=2.0000
+PRP Diameter 'None'
+PRP Height '2mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Würth Elektronik'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_Part_Number_1 '9774020951R'
+PRP Manufacturer_Part_Number_2 'None'
+PRP Max_Operating_Temp 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Name 'SMT STD 2mm'
+PRP Part_Number '9774020951R'
+PRP Pins '1'
+PRP Revision '0A'
+PRP Supplier_1 'None'
+PRP Supplier_2 'None'
+PRP Supplier_Part_Number_1 'None'
+PRP Supplier_Part_Number_2 'None'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage 'None'
+TOP 0 63.999999 19.50000164 270 N 298 111 1
+#
+# CMP 23
+CMP 0 3.99999962 78.50000048 270 N STD2 9774020951R ;0=2,1=2.0000
+PRP Diameter 'None'
+PRP Height '2mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Würth Elektronik'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_Part_Number_1 '9774020951R'
+PRP Manufacturer_Part_Number_2 'None'
+PRP Max_Operating_Temp 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Name 'SMT STD 2mm'
+PRP Part_Number '9774020951R'
+PRP Pins '1'
+PRP Revision '0A'
+PRP Supplier_1 'None'
+PRP Supplier_2 'None'
+PRP Supplier_Part_Number_1 'None'
+PRP Supplier_Part_Number_2 'None'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage 'None'
+TOP 0 3.99999962 78.50000048 270 N 298 112 1
+#
+# CMP 24
+CMP 0 3.99999962 19.50000164 270 N STD4 9774020951R ;0=2,1=2.0000
+PRP Diameter 'None'
+PRP Height '2mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Würth Elektronik'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_Part_Number_1 '9774020951R'
+PRP Manufacturer_Part_Number_2 'None'
+PRP Max_Operating_Temp 'None'
+PRP Min_Operating_Temp 'None'
+PRP Part_Name 'SMT STD 2mm'
+PRP Part_Number '9774020951R'
+PRP Pins '1'
+PRP Revision '0A'
+PRP Supplier_1 'None'
+PRP Supplier_2 'None'
+PRP Supplier_Part_Number_1 'None'
+PRP Supplier_Part_Number_2 'None'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage 'None'
+TOP 0 3.99999962 19.50000164 270 N 298 113 1
+#
+# CMP 25
+CMP 64 25.0000008 6.50000224 90 N J17 TC2030-IDC-NLDNP ;0=1,1=0.0000
+PRP Added_By 'emoo'
+PRP Added_Date '12/3/2015'
+PRP Checked_By ''
+PRP Checked_Date ''
+PRP DNP 'DNP'
+PRP Height '0'
+PRP Manufacturer 'TAG Connect'
+PRP Manufacturer_P/N 'TC2030-IDC-NL'
+PRP Part_Number 'TC2030-IDC-NL'
+PRP Size '3.81mm x 7.62mm'
+PRP STEP_File ''
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+TOP 0 25.6350008 7.77000224 90 N 169 7 1
+TOP 1 24.3650008 7.77000224 90 N 295 0 2
+TOP 2 25.6350008 6.50000224 90 N 297 0 3
+TOP 3 24.3650008 6.50000224 90 N 296 0 4
+TOP 4 25.6350008 5.23000224 90 N 298 108 5
+TOP 5 24.3650008 5.23000224 90 N 294 0 6
+#
+# CMP 26
+CMP 67 33.22499832 3.3749996 90 N D28 empty_part_name ;0=1,1=0.8000
+PRP Body_Size '3mm x 3mm'
+PRP Current 'None'
+PRP Height '0.80mm'
+PRP Item_Phase 'In Production'
+PRP Manufacturer_1 'Texas Instruments'
+PRP Manufacturer_2 'None'
+PRP Manufacturer_P/N ''
+PRP Manufacturer_Part_Number_1 'TPD3E001DRSR'
+PRP Manufacturer_Part_Number_2 'None'
+PRP Max_Operating_Temp '85'
+PRP MFG_Package 'WSON-6, DRS (S-PWSON-N6)'
+PRP Min_Operating_Temp '-40'
+PRP Part_Name 'Diode TVS 5V 3CH WSON-6'
+PRP Part_Number ''
+PRP Pins '6'
+PRP Revision '0A'
+PRP Supplier_1 ''
+PRP Supplier_2 'None'
+PRP Supplier_Part_Number_1 ''
+PRP Supplier_Part_Number_2 'None'
+PRP UBX_Code 'None'
+PRP Use_in_new_designs 'Yes'
+PRP Voltage '5.5V'
+TOP 0 32.27499768 4.89999782 90 N 255 0 1
+TOP 1 32.27500022 4.52499984 90 N 255 1 1
+TOP 2 33.22499832 4.90000036 90 N 254 0 2
+TOP 3 33.22499832 4.52499984 90 N 254 1 2
+TOP 4 34.1750015 4.90000036 90 N 298 99 3
+TOP 5 34.17499896 4.52499984 90 N 298 100 3
+TOP 6 34.1750015 1.84999884 270 N 0 30 4
+TOP 7 34.17499896 2.22499682 270 N 0 31 4
+TOP 8 33.22499832 1.84999884 270 N 0 32 5
+TOP 9 33.22499578 2.22499682 270 N 0 33 5
+TOP 10 32.27499768 1.84999884 270 N 293 0 6
+TOP 11 32.27500022 2.22499936 270 N 293 1 6
+TOP 12 33.22499832 3.3749996 90 N 298 98 EPAD
+#

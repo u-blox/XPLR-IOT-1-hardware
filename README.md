@@ -11,6 +11,9 @@ single ZIP file for each revision. This file contains
     > Rev C: not produced. Use Rev D files.
     > Rev D: initial production release 2022-12-21 
 
+2023-01-10 - Zip files now replaced with uncompressed directories. STEP files
+have been individually compressed.
+
 ## Disclaimer
 Copyright &copy; u-blox 
 
